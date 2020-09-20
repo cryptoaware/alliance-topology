@@ -66,11 +66,6 @@
       "valency": 1
     },
     {
-      "addr": "relays-new.cardano-mainnet.iohk.io",
-      "port": 3001,
-      "valency": 2
-    },
-    {
       "addr": "song1.bekindstakepools.online",
       "port": 3001,
       "valency": 1
@@ -89,6 +84,11 @@
       "addr": "relay2.cashflowpool.com",
       "port": 3001,
       "valency": 1
+    },
+    {
+      "addr": "relays-new.cardano-mainnet.iohk.io",
+      "port": 3001,
+      "valency": 2
     }
   ]
 }
