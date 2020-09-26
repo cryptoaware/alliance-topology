@@ -32,12 +32,7 @@
     },
     {
       "addr": "adapool.crazycareergames.com",
-      "port": 4001,
-      "valency": 1
-    },
-    {
-      "addr": "adapool.crazycareergames.com",
-      "port": 4002,
+      "port": 5000,
       "valency": 1
     },
     {
