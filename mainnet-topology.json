@@ -61,12 +61,12 @@
       "valency": 1
     },
     {
-      "addr": "song1.bekindstakepools.online",
+      "addr": "relay1.bekindstakepools.online",
       "port": 3001,
       "valency": 1
     },
     {
-      "addr": "song1.bekindstakepools.online",
+      "addr": "relay2.bekindstakepools.online",
       "port": 3002,
       "valency": 1
     },
